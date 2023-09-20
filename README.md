@@ -1,1 +1,1 @@
-# NLP_spam_detetion
+# NLP_spam_detection
